@@ -31,3 +31,4 @@ Qué sigue (Día 2 - Análisis)
 Realizar los documentos de análisis en la carpeta /docs (historias de usuario / requerimientos del sistema para la gestión de productos y lista de compras por cliente).
 
 Captura del tablero
+[image alt](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/55af110ab20918acbaf7c7fea2956fe83d36c4b4/Dia1.png)
