@@ -1,1 +1,3 @@
-TABLERO KANBAN DIA 1 /Dia1.png
+!TABLERO KANBAN DIA 1 
+
+/Dia1.png
