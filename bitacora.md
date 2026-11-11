@@ -32,3 +32,13 @@ Realizar los documentos de análisis en la carpeta /docs (historias de usuario /
 
 Captura del tablero
 [image alt](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/55af110ab20918acbaf7c7fea2956fe83d36c4b4/Dia1.png)
+
+## Día 2 (10/11/2026)
+- **Qué hicimos:** Redacción completa de las historias de usuario y requerimientos funcionales en `/docs`, diseño detallado del modelo de datos (`Articulo` y la estructura `List<List<Articulo>>`), y documentación de los casos de uso iniciales.
+- **Quién hizo qué:** 
+  - Olavarria: Historias de usuario, requerimientos y diseño del modelo de datos.
+  - Moyano: Estructura de la carpeta `/docs`, redacción de los casos de uso iniciales y actualización de la bitácora del día.
+  - *Nota:* El integrante Miño no pudo participar de la jornada de hoy debido a un corte de luz provocado por tormentas, situación preavisada y aceptada por el grupo.
+- **Qué nos trabó:** Ningún inconveniente técnico; se reestructuró la carga de trabajo del día de forma fluida entre los integrantes presentes.
+- **Qué sigue:** Mañana (Día 3 - Diseño), las tareas específicas de diseño y arranque técnico están por definirse al retomar la actividad con el equipo completo.
+- **Captura del tablero:** 
