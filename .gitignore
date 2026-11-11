@@ -23,3 +23,8 @@
 hs_err_pid*
 replay_pid*
 /.metadata/
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
