@@ -41,4 +41,4 @@ Captura del tablero
   - *Nota:* El integrante Miño no pudo participar de la jornada de hoy debido a un corte de luz provocado por tormentas, situación preavisada y aceptada por el grupo.
 - **Qué nos trabó:** Ningún inconveniente técnico; se reestructuró la carga de trabajo del día de forma fluida entre los integrantes presentes.
 - **Qué sigue:** Mañana (Día 3 - Diseño), las tareas específicas de diseño y arranque técnico están por definirse al retomar la actividad con el equipo completo.
-- **Captura del tablero:** 
+- **Captura del tablero:** [image alt](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/0978c819200a8e9aef9b68a90bfdeee9365a1530/Dia2.png)
