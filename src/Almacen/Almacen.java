@@ -1,14 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-
-public class Inventario {
-    // Lista de nombres de categorías (ej: "Almacén", "Bebidas", "Limpieza")
-    private List<String> categorias;
-//podemos definir las listas 
-    
-}
 package Almacen;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

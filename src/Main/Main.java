@@ -1,19 +1,7 @@
-
-public class Main {
-
-	public static void main(String[] args) {
-		
-	}
-
-}
-
 package Main;
-
 import java.util.Scanner;
-
 import Almacen.Almacen;
 import Almacen.Articulo;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -129,4 +117,4 @@ public class Main {
         } while (opcion != 7);
 
         teclado.close();
-    }
+    }}
