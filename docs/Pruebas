@@ -1,0 +1,6 @@
+## Anexo C. Plantilla de caso de prueba
+
+| N° | Qué pruebo | Datos de entrada | Resultado esperado | Resultado obtenido | ¿Pasó? |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| 1 | Alta de un artículo nuevo | Código 2010, "Pan Lactal", 100 | El artículo se guarda | | |
+| 2 | Consulta Articulo | Código 2010 | Se existencias | | |
