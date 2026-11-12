@@ -33,10 +33,13 @@ Tema elegido: clase 6: Colecciones y Listas: Elegimos la Clase 6 porque las list
 
 ## Funcionalidades
 
-* Alta de nuevos artículos en el inventario.
-* Baja de artículos existentes.
-* Búsqueda de artículos por código o nombre.
-* Listado general del stock y agrupación por categorías.
+* Registrar  artículos en el inventario.
+* Aumentar Stock
+* Disminuir Stock.
+* Consultar productos por codigo.
+* Eliminar prodcuto
+* Listar productos
+  
 
 ## Capturas de pantalla
 
