@@ -42,3 +42,14 @@ Captura del tablero
 - **Qué nos trabó:** Ningún inconveniente técnico; se reestructuró la carga de trabajo del día de forma fluida entre los integrantes presentes.
 - **Qué sigue:** Mañana (Día 3 - Diseño), las tareas específicas de diseño y arranque técnico están por definirse al retomar la actividad con el equipo completo.
 - **Captura del tablero:** [image alt](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/0978c819200a8e9aef9b68a90bfdeee9365a1530/Dia2.png)
+
+
+## Día 3 (11/11/2026)
+- **Qué hicimos:** Desarrollo e implementación del código base en la clase `Main` con el menú interactivo por consola (opciones de alta, baja, aumento/disminución de stock, consulta y listado), diseño lógico de los métodos gestores y estructuración de la tabla de casos de prueba previos.
+- **Quién hizo qué:** 
+  - Miño: Definición de la firma y lógica de los métodos obligatorios del sistema sobre la colección de listas (`List<List<Articulo>>`).
+  - Moyano: Implementación de la estructura del menú interactivo en la clase `Main`, armado de la arquitectura en `/docs`, redacción de la bitácora y captura del tablero Kanban.
+  - Olavarria: Preparación y documentación de los casos de prueba previos orientados al Anexo C.
+- **Qué nos trabó:** Ningún inconveniente técnico mayor; el flujo del menú por consola se integró correctamente con las opciones del almacén.
+- **Qué sigue:** Mañana (Día 4 - Desarrollo I), avanzaremos de lleno con la implementación del código interno para los métodos lógicos de gestión en las clases correspondientes.
+- **Captura del tablero:** 
