@@ -31,7 +31,7 @@ Qué sigue (Día 2 - Análisis)
 Realizar los documentos de análisis en la carpeta /docs (historias de usuario / requerimientos del sistema para la gestión de productos y lista de compras por cliente).
 
 Captura del tablero
-[image alt](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/55af110ab20918acbaf7c7fea2956fe83d36c4b4/Dia1.png)
+[DIA 1](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/55af110ab20918acbaf7c7fea2956fe83d36c4b4/Dia1.png)
 
 ## Día 2 (10/11/2026)
 - **Qué hicimos:** Redacción completa de las historias de usuario y requerimientos funcionales en `/docs`, diseño detallado del modelo de datos (`Articulo` y la estructura `List<List<Articulo>>`), y documentación de los casos de uso iniciales.
@@ -41,7 +41,7 @@ Captura del tablero
   - *Nota:* El integrante Miño no pudo participar de la jornada de hoy debido a un corte de luz provocado por tormentas, situación preavisada y aceptada por el grupo.
 - **Qué nos trabó:** Ningún inconveniente técnico; se reestructuró la carga de trabajo del día de forma fluida entre los integrantes presentes.
 - **Qué sigue:** Mañana (Día 3 - Diseño), las tareas específicas de diseño y arranque técnico están por definirse al retomar la actividad con el equipo completo.
-- **Captura del tablero:** [image alt](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/0978c819200a8e9aef9b68a90bfdeee9365a1530/Dia2.png)
+- **Captura del tablero:** [DIA 2](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/0978c819200a8e9aef9b68a90bfdeee9365a1530/Dia2.png)
 
 
 ## Día 3 (11/11/2026)
@@ -52,4 +52,4 @@ Captura del tablero
   - Olavarria: Preparación y documentación de los casos de prueba previos orientados al Anexo C.
 - **Qué nos trabó:** Ningún inconveniente técnico mayor; el flujo del menú por consola se integró correctamente con las opciones del almacén.
 - **Qué sigue:** Mañana (Día 4 - Desarrollo I), avanzaremos de lleno con la implementación del código interno para los métodos lógicos de gestión en las clases correspondientes.
-- **Captura del tablero:** 
+- **Captura del tablero:** [DIA 3](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/025ca55e2de0c6b1d493cf11b315dfc47884e21d/Dia3.png)
