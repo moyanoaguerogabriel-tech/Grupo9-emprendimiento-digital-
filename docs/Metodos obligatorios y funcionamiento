@@ -1,0 +1,28 @@
+Métodos Obligatorios y su Funcionamiento
+1. alta(Articulo articulo, int sector)
+Recibe: Un objeto Articulo y un int sector (1, 2 o 3).
+
+Devuelve: true si se registró con éxito, o false si el sector no existe o el código ya está repetido.
+
+Lógica: Valida que el sector sea válido y que el código no exista en el almacén. Si pasa, lo añade a la lista del sector correspondiente.
+
+2. baja(int codigo)
+Recibe: El int codigo del producto a eliminar.
+
+Devuelve: true si lo encontró y borró, o false si no existe.
+
+Lógica: Recorre los sectores buscando el código. Al encontrarlo, lo elimina de la lista de forma segura y termina.
+
+3. buscar(int codigo)
+Recibe: El int codigo del producto.
+
+Devuelve: El objeto Articulo si lo encuentra, o null si no está.
+
+Lógica: Revisa sector por sector comparando los códigos. En cuanto halla coincidencia, devuelve el artículo.
+
+4. listar()
+Recibe: Nada (void).
+
+Devuelve: Nada (void), imprime por consola.
+
+Lógica: Recorre la estructura sector por sector mostrando todos los productos guardados o avisando si un sector está vacío.
