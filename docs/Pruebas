@@ -1,5 +1,8 @@
 ## Anexo C. Plantilla de caso de prueba
 
 | N° | Qué pruebo | Datos de entrada | Resultado esperado | Resultado obtenido | ¿Pasó? |
-| 1 | Alta de un artículo nuevo | Código 2010, "Pan Lactal", 100 |Que se guarde el articulo| El artículo se guarda  | anduvo ok |
-| 2 | Consulta Articulo | Código 2010 | Indica existencias |  Indicó existencias| Anduvo ok |
+| 1 | Alta de un artículo nuevo | Código 2010, "Pan Lactal", 100 |Que se guarde el articulo| El artículo se guarda  | funionó ok |
+| 2 | Consulta Articulo | Código 2010 | Indica existencias |  Indicó existencias| funcionó ok |
+| 3 | Alta articulo nuevo | Código q23 | consulta nombre para el arituclo | Dio errro esperaba numeros enteros| funcionó ok |
+| 3 | Alta articulo nuevo | Código q23 | Solicita dato valido numerico   | indicó mensaje  solicitando datos correctos| funcionó  ok |
+
