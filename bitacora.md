@@ -53,3 +53,13 @@ Captura del tablero
 - **Qué nos trabó:** Ningún inconveniente técnico mayor; el flujo del menú por consola se integró correctamente con las opciones del almacén.
 - **Qué sigue:** Mañana (Día 4 - Desarrollo I), avanzaremos de lleno con la implementación del código interno para los métodos lógicos de gestión en las clases correspondientes.
 - **Captura del tablero:** [DIA 3](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/025ca55e2de0c6b1d493cf11b315dfc47884e21d/Dia3.png)
+
+Día 4 (12/11/2026)
+**Qué hicimos:** Pruebas de funcionamiento y correxiónes de la logica del codigo agregando  condiciones para que en el ingreso del código del producto solo se pueda agregar valores tipo entero sin que de error.  
+Quién hizo qué:
+Miño: 
+Moyano: 
+Olavarria: 
+Qué nos trabó: El inconveniente mayor fue  desarrollar la implementación del código para que el programa no falle. 
+Qué sigue: Mañana (Día 5 - Desarrollo II), avanzaremos de lleno con la implementación del código interno para los métodos lógicos de gestión en las clases correspondientes.
+Captura del tablero: DIA 4
