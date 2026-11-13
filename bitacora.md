@@ -62,4 +62,4 @@ Moyano:
 Olavarria: 
 Qué nos trabó: El inconveniente mayor fue  desarrollar la implementación del código para que el programa no falle. 
 Qué sigue: Mañana (Día 5 - Desarrollo II), avanzaremos de lleno con la implementación del código interno para los métodos lógicos de gestión en las clases correspondientes.
-Captura del tablero: DIA 4
+**Captura del tablero:** [DIA 4](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/main/Dia4.png)
