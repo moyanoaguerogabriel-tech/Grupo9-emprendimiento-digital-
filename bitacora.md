@@ -54,12 +54,22 @@ Captura del tablero
 - **Qué sigue:** Mañana (Día 4 - Desarrollo I), avanzaremos de lleno con la implementación del código interno para los métodos lógicos de gestión en las clases correspondientes.
 - **Captura del tablero:** [DIA 3](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/025ca55e2de0c6b1d493cf11b315dfc47884e21d/Dia3.png)
 
-##Día 4 (12/11/2026)
-**Qué hicimos:** Pruebas de funcionamiento y correxiónes de la logica del codigo agregando  condiciones para que en el ingreso del código del producto solo se pueda agregar valores tipo entero sin que de error.  
-Quién hizo qué:
-Miño: 
-Moyano: 
-Olavarria: 
-Qué nos trabó: El inconveniente mayor fue  desarrollar la implementación del código para que el programa no falle. 
-Qué sigue: Mañana (Día 5 - Desarrollo II), avanzaremos de lleno con la implementación del código interno para los métodos lógicos de gestión en las clases correspondientes.
-**Captura del tablero:** [DIA 4](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/main/Dia4.png)
+## Día 4 (12/11/2026)
+- **Qué hicimos:** Pruebas de funcionamiento y correcciones de la lógica del código agregando condiciones para que en el ingreso del código del producto solo se pueda agregar valores tipo entero sin que dé error.
+- **Quién hizo qué:** 
+  - Miño: Optimización de la estructura de la clase gestora y métodos internos.
+  - Moyano: Pruebas de entorno local, redacción de la bitácora y actualización del tablero Kanban.
+  - Olavarria: Revisión cruzada de requerimientos y consistencia del código.
+- **Qué nos trabó:** El inconveniente mayor fue desarrollar la implementación del código para evitar que el programa falle ante entradas inválidas del usuario.
+- **Qué sigue:** Mañana (Día 5 - Desarrollo II), avanzaremos de lleno con la implementación del código interno para los métodos lógicos de gestión en las clases correspondientes.
+- **Captura del tablero:** [DIA 4](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/main/Dia4.png)
+
+## Día 5 (13/11/2026)
+- **Qué hicimos:** Implementación y conexión definitiva de los métodos de alta, baja, búsqueda y control de stock en las clases correspondientes, asegurando su correcto funcionamiento con la estructura de colección de listas (`List<List<Articulo>>`).
+- **Quién hizo qué:** 
+  - Miño: Codificación y pruebas de la lógica interna de los métodos de gestión de inventario y alta de artículos.
+  - Moyano: Integración general del sistema, redacción de la bitácora de la jornada y actualización del tablero Kanban.
+  - Olavarria: Verificación y pruebas funcionales de los listados por sector y de las opciones de consulta.
+- **Qué nos trabó:** Pequeños ajustes en el manejo de los índices de las listas anidadas para que coincidan de forma exacta con los sectores (1, 2 y 3), resueltos fluidamente en equipo.
+- **Qué sigue:** Mañana (Día 6 - Pruebas y Depuración), realizaremos las pruebas finales utilizando la tabla de casos de prueba del Anexo C para garantizar la robustez total de la aplicación.
+- **Captura del tablero:** 
