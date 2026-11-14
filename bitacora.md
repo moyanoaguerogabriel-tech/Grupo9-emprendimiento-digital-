@@ -72,4 +72,4 @@ Captura del tablero
   - Olavarria: Verificación y pruebas funcionales de los listados por sector y de las opciones de consulta.
 - **Qué nos trabó:** Pequeños ajustes en el manejo de los índices de las listas anidadas para que coincidan de forma exacta con los sectores (1, 2 y 3), resueltos fluidamente en equipo.
 - **Qué sigue:** Mañana (Día 6 - Pruebas y Depuración), realizaremos las pruebas finales utilizando la tabla de casos de prueba del Anexo C para garantizar la robustez total de la aplicación.
-- **Captura del tablero:** 
+- **Captura del tablero:** [DIA 5](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/aa3ba98b7ae26630b4eec33e733aa76e3fa8d5ed/Dia5.png)
