@@ -4,5 +4,7 @@
 | 1 | Alta de un artículo nuevo | Código 2010, "Pan Lactal", 100 |Que se guarde el articulo| El artículo se guarda  | funionó ok |
 | 2 | Consulta Articulo | Código 2010 | Indica existencias |  Indicó existencias| funcionó ok |
 | 3 | Alta articulo nuevo | Código q23 | consulta nombre para el arituclo | Dio errro esperaba numeros enteros| funcionó ok |
-| 3 | Alta articulo nuevo | Código q23 | Solicita dato valido numerico   | indicó mensaje  solicitando datos correctos| funcionó  ok |
+| 4 | Alta articulo nuevo | Código q23 | Solicita dato valido numerico   | indicó mensaje  solicitando datos correctos| funcionó  ok |
+| 5 | Alta articulo nuevo | Código q23 | Debería advertir que  el codigo ya existe  | toma el codigo  ya ingresado sin advertir| funcuona  con falla logica|
+
 
