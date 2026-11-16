@@ -6,4 +6,4 @@
 | 3 | Alta Articulo nuevo | Código q23 | consulta nombre para el arituclo | Dió error esperaba numeros enteros| funcionó ok |
 | 4 | Alta Articulo nuevo | Código q23 | Solicita dato válido numérico   | indicó mensaje  solicitando datos correctos| funcionó  ok |
 | 5 | Alta Articulo nuevo | Código q23 | Debería advertir que  el código ya existe  | Toma el código  ya ingresado sin advertir| funciona  con falla logica|
-| 6 | Alta Articulo nuevo | Código q23 | Carga de stock negativo | No deja cargarlo | Funciona ok |
+| 6 | Alta Articulo nuevo | Código q23 | Carga de stock negativo | No ponerle nombres o códigos | No deja cargarlo | Funciona ok |
