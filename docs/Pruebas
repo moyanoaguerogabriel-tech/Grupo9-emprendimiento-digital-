@@ -1,10 +1,9 @@
 ## Anexo C. Plantilla de caso de prueba
 
-| N° | Qué pruebo | Datos de entrada | Resultado esperado | Resultado obtenido | ¿Pasó? |
+| N° | Qué pruebo? | Datos de entrada | Resultado esperado?| Resultado obtenido? | ¿Pasó? |
 | 1 | Alta de un artículo nuevo | Código 2010, "Pan Lactal", 100 |Que se guarde el articulo| El artículo se guarda  | funionó ok |
 | 2 | Consulta Articulo | Código 2010 | Indica existencias |  Indicó existencias| funcionó ok |
-| 3 | Alta articulo nuevo | Código q23 | consulta nombre para el arituclo | Dio errro esperaba numeros enteros| funcionó ok |
-| 4 | Alta articulo nuevo | Código q23 | Solicita dato valido numerico   | indicó mensaje  solicitando datos correctos| funcionó  ok |
-| 5 | Alta articulo nuevo | Código q23 | Debería advertir que  el codigo ya existe  | toma el codigo  ya ingresado sin advertir| funcuona  con falla logica|
-
-
+| 3 | Alta Articulo nuevo | Código q23 | consulta nombre para el arituclo | Dió error esperaba numeros enteros| funcionó ok |
+| 4 | Alta Articulo nuevo | Código q23 | Solicita dato válido numérico   | indicó mensaje  solicitando datos correctos| funcionó  ok |
+| 5 | Alta Articulo nuevo | Código q23 | Debería advertir que  el código ya existe  | Toma el código  ya ingresado sin advertir| funciona  con falla logica|
+| 6 | Carga Articulo nuevo | Carga stock negativo | No ponerle nombre o codigos | Se hizo un codigo sin fallas
