@@ -73,3 +73,14 @@ Captura del tablero
 - **Qué nos trabó:** Pequeños ajustes en el manejo de los índices de las listas anidadas para que coincidan de forma exacta con los sectores (1, 2 y 3), resueltos fluidamente en equipo.
 - **Qué sigue:** Mañana (Día 6 - Pruebas y Depuración), realizaremos las pruebas finales utilizando la tabla de casos de prueba del Anexo C para garantizar la robustez total de la aplicación.
 - **Captura del tablero:** [DIA 5](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/aa3ba98b7ae26630b4eec33e733aa76e3fa8d5ed/Dia5.png)
+
+## Día 6 (15/11/2026)
+
+- **Qué hicimos:** Ejecución y validación de los casos de prueba funcionales sobre el sistema, redacción y completado del archivo README.md principal en la raíz del repositorio, compilación de resultados de pruebas en la carpeta `/pruebas`, actualización de la bitácora y subida de la captura del tablero Kanban.
+- **Quién hizo qué:**
+  - Miño: Ejecución del conjunto de pruebas funcionales y verificación del comportamiento ante datos normales e inválidos.
+  - Olavarria: Redacción del archivo README.md detallando la presentación, el problema resuelto, las tecnologías y las instrucciones de ejecución.
+  - Moyano: Compilación de los resultados de pruebas en `/pruebas`, redacción de la bitácora interna y actualización del tablero Kanban.
+- **Qué nos trabó:** Ningún inconveniente mayor; la ejecución de las pruebas y la redacción de la documentación se completaron de forma fluida.
+- **Qué sigue:** Mañana (Día 7), realizaremos la revisión final general del proyecto y prepararemos la defensa oral.
+- **Captura del tablero:** [DIA 6](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/main/Dia6.png)
