@@ -84,3 +84,13 @@ Captura del tablero
 - **Qué nos trabó:** Ningún inconveniente mayor; la ejecución de las pruebas y la redacción de la documentación se completaron de forma fluida.
 - **Qué sigue:** Mañana (Día 7), realizaremos la revisión final general del proyecto y prepararemos la defensa oral.
 - **Captura del tablero:** [DIA 6](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/main/Dia6.png)
+
+
+  ## Día 7 (15/11/2026)
+
+- **Qué hicimos:** Revisión integral final de todo el repositorio, código fuente, documentación y casos de prueba para confirmar que el sistema está completamente terminado y operativo, y preparación grupal de la exposición para la defensa oral del proyecto.
+- **Quién hizo qué:**
+  - Todos: Repaso general y unificado de los conceptos, la arquitectura y el funcionamiento del sistema de cara a la defensa oral.
+- **Qué nos trabó:** Ninguno; el proyecto se encuentra cerrado y el equipo maneja por completo todos los puntos desarrollados.
+- **Qué sigue:** Ninguna tarea pendiente. Proyecto finalizado y listo para la presentación.
+- **Captura del tablero:** [DIA 7](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/main/Dia7.png)
