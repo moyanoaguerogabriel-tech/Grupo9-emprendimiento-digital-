@@ -43,7 +43,7 @@ Tema elegido: clase 6: Colecciones y Listas: Elegimos la Clase 6 porque las list
 
 ## Capturas de pantalla
 
-*(Insertar aquí las imágenes de la consola o interfaz)*
+![kanban](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/743d64bdd5fda265dbcd1e0b3aab1069a8786903/Kanban.md)
 
 ## Pruebas realizadas
 *(Resumen de casos de prueba y enlace a la carpeta /pruebas)*
