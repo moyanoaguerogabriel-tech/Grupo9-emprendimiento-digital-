@@ -46,7 +46,18 @@ Tema elegido: clase 6: Colecciones y Listas: Elegimos la Clase 6 porque las list
 ![kanban](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/743d64bdd5fda265dbcd1e0b3aab1069a8786903/Kanban.md)
 
 ## Pruebas realizadas
-*(Resumen de casos de prueba y enlace a la carpeta /pruebas)*
+
+Para validar el funcionamiento del sistema y el manejo de errores por consola, ejecutamos los siguientes casos de prueba:
+
+* **Alta de producto válido:** Al ingresar el código `2010`, nombre `"Pan Lactal"` y stock inicial `100`, el sistema guarda el artículo correctamente.
+* **Consulta de producto:** Al buscar por el código `2010`, muestra las existencias actuales del artículo.
+* **Validación de tipo de dato en código:** Al intentar cargar un código no numérico (ej. `q23`), el sistema captura el error, avisa que espera números enteros y vuelve a solicitar el dato.
+* **Validación de stock negativo:** Al intentar ingresar cantidades negativas, el sistema rechaza la carga y solicita un valor válido.
+* **Detección de código duplicado (falla lógica detectada en pruebas):** Durante las pruebas iniciales se detectó que al intentar registrar un código ya existente, el sistema lo tomaba sin advertir; a partir de esta prueba se corrigió la validación en el alta.
 
 ## Conclusiones
-*(Espacio para completar al finalizar la semana sobre el proceso, dificultades y mejoras)*
+
+* **Aplicación práctica de colecciones y POO:** El desarrollo de **Almacén El Mercadito** permitió aplicar los conceptos de colecciones y listas en Java (`List`, `ArrayList` y estructuras anidadas por sector) junto con el encapsulamiento en clases (`Articulo`, `Almacen` y `Main`) para resolver un problema concreto de control de stock[cite: 3].
+* **Alcance claro y validaciones:** Mantener el sistema enfocado exclusivamente en el alta, baja, consulta, listado y actualización de existencias por sector —sin mezclar precios ni ventas— ayudó a construir una lógica ordenada y con controles de entrada y stock[cite: 2, 3].
+* **Organización y trazabilidad:** El uso de un tablero Kanban, la bitácora diaria y los casos de prueba permitió ordenar las tareas del equipo, detectar fallos lógicos durante las pruebas y documentar el avance del proyecto.
+* **Mejoras futuras:** Como próximos pasos, se propone incorporar persistencia de datos (mediante archivos o base de datos) para conservar el inventario al cerrar el programa, además de alertas de stock mínimo y reportes por sector.
