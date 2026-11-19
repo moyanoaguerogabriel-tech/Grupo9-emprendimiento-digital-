@@ -57,7 +57,7 @@ Para validar el funcionamiento del sistema y el manejo de errores por consola, e
 
 ## Conclusiones
 
-* **Aplicación práctica de colecciones y POO:** El desarrollo de **Almacén El Mercadito** permitió aplicar los conceptos de colecciones y listas en Java (`List`, `ArrayList` y estructuras anidadas por sector) junto con el encapsulamiento en clases (`Articulo`, `Almacen` y `Main`) para resolver un problema concreto de control de stock[cite: 3].
-* **Alcance claro y validaciones:** Mantener el sistema enfocado exclusivamente en el alta, baja, consulta, listado y actualización de existencias por sector —sin mezclar precios ni ventas— ayudó a construir una lógica ordenada y con controles de entrada y stock[cite: 2, 3].
+* **Aplicación práctica de colecciones y POO:** El desarrollo de **Almacén El Mercadito** permitió aplicar los conceptos de colecciones y listas en Java (`List`, `ArrayList` y estructuras anidadas por sector) junto con el encapsulamiento en clases (`Articulo`, `Almacen` y `Main`) para resolver un problema concreto de control de stock.
+* **Alcance claro y validaciones:** Mantener el sistema enfocado exclusivamente en el alta, baja, consulta, listado y actualización de existencias por sector —sin mezclar precios ni ventas— ayudó a construir una lógica ordenada y con controles de entrada y stock.
 * **Organización y trazabilidad:** El uso de un tablero Kanban, la bitácora diaria y los casos de prueba permitió ordenar las tareas del equipo, detectar fallos lógicos durante las pruebas y documentar el avance del proyecto.
 * **Mejoras futuras:** Como próximos pasos, se propone incorporar persistencia de datos (mediante archivos o base de datos) para conservar el inventario al cerrar el programa, además de alertas de stock mínimo y reportes por sector.
