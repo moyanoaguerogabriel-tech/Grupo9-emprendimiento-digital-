@@ -4,7 +4,7 @@
 
 * **HU01: Alta de Artículos**
   * **Como** repositor del almacén,
-  * **Quiero** registrar un nuevo artículo indicando su nombre, código, precio, stock y categoría,
+  * **Quiero** registrar un nuevo artículo indicando su nombre, código, stock y categoría,
   * **Para** incorporarlo al inventario y que esté disponible para la venta.
 
 * **HU02: Baja de Artículos**
