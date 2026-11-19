@@ -13,3 +13,7 @@ TABLERO KANBAN DIA 4
 
 TABLERO KANBAN DIA 5
 ![image alt](https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/aa3ba98b7ae26630b4eec33e733aa76e3fa8d5ed/Dia5.png)
+
+TABLERO KANBAN DIA 6
+![image alt]{https://github.com/moyanoaguerogabriel-tech/Grupo9-emprendimiento-digital-/blob/52e591f962e1684fa1d035d3f6d9dadcaeb6f00b/Dia6.png}
+
